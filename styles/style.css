@@ -1,21 +1,127 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
-</style>
 
 
-/* nav>div{ display: flex; */
-    align-items: center;
-    margin: left 690px;
-
+.azeret-mono-space {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
 }
-.banner-section {
-    font-family: Arial, Helvetica, sans-serif;
-    background-image:url("images/Hero-bg.png");
-    width: 1390px;
+
+/* baner decoration */
+
+header>nav>ul>li{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+.great{
+    text-decoration: none;
+}
+header>nav{
+    background-image: url(images/Hero-bg.png);
+    width: 1380px;
     height: 600px;
+}
+.btn{
+    width: 170px;
+    height: 55px;
+    color: white;
+    background-color: black;
+}
+.habib{
+    width: 950px;
+    height: 30px
+    
+}
+
+/* main section */
+info{
+    /* border: 2px solid red; */
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
 
 }
-.banner-content{
 
-    
+.text{
+    display: block;
+   text-align: center;
+}
+
+.asus{
+    display: flex;
+    text-decoration: none;
+    margin: 48px;
+    justify-content: center;
+}
+.hp{
+    text-decoration: none;
+    color: #0D1321;
+    width: 450px;
+    height: 200px;
+
+}
+.bang{
+    height: 200px;
+    width: 240px;
+}
+.jack{
+    height: 40px;
+    width: 120px;
+    background-color: white;
+    color: #0d1321;
+}
+
+.dog{
+    display: flex;
+    justify-content: center;
+}
+.cat{
+    height: 220px;
+    width: 470px;
+    margin-left: 65px;
+}
+.big{
+    width: 220px;
+    height: 220px;
+    margin-top: 48px;
+    margin-left: 30px;
+}
+.rat{
+    width: 120px;
+    height: 40px;
+    background-color: white;
+    margin-top: 5px;
+    color: #0d1321
+
+}
+
+.mango{
+    display: flex;
+    justify-content: center;
+}
+.banana{
+    height: 220px;
+    width: 470px;
+    margin-bottom: 40px;
+    margin-left: 65px;
+}
+#card{
+    height: 220px;
+    width: 220px;
+}
+.apple{
+    width: 120px;
+    height: 40px;
+    background-color: white;
+    margin-top: 5px;
+    color: #0d1321
+}
+.lion{
+    align-items: center;
+    margin-left: 415px;
+}
+.tiger{
+    text-align: center;
+    margin-bottom: 50px;
+
 }
