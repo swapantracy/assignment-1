@@ -125,3 +125,100 @@ info{
     margin-bottom: 50px;
 
 }
+
+.rich{
+    text-align: center;
+    width: 820px;
+    height: 50px;
+    margin-left: 240px;
+    margin-top: 50px;
+}
+
+.shirt{
+    margin: 30px 30px;
+    height: 200px;
+    width: 250px;
+    background-color: #FFF6F4;
+    padding: 20px 20px;
+    border-radius: 4px;
+    display: block;
+}
+
+.genji{
+    margin: 30px 30px;
+    height: 200px;
+    width: 250px;
+    background-color:#F2F6FE ;
+    padding: 20px 20px;
+    border-radius: 4px;
+    display: block;
+}
+
+.pajama{
+    margin: 30px 30px;
+    height: 200px;
+    width: 250px;
+    background-color:#FFFDF2 ;
+    padding: 20px 20px;
+    border-radius: 4px;
+    display: block;
+    
+}
+.kapor{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+    margin-top: 40px;
+}
+
+.mum{
+    text-align: center; 
+    margin-top: 100px;
+}
+
+#kolom{
+     height: 50px; 
+     width: 350px; 
+    padding-left: 19px;
+    color: #ACAFB3;
+    border-radius: 3px;
+}
+
+#boi{
+
+    padding: 3px;
+    border-radius: 3px;
+}
+
+
+.dad{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+
+}
+.iron{
+    background-size: cover;
+    background-image: url(images/handshake.jpg);
+    height: 300px;
+    width: 1200px;
+    background-position: center;
+    margin-left: 100px;
+    align-items: center;
+}
+.ragav{
+    display: flex;
+    justify-content: end;
+    margin-right: 100px;
+
+}
+
+.ami{
+    justify-content: space-between;
+    display: inline;
+}
+
+.ragi{
+    margin-left: 100px;
+    margin-top: 5px;
+}
